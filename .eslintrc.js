@@ -1,5 +1,6 @@
 module.exports = {
   "rules": {
-    "no-hoge": 2
+    "no-hoge": 2,
+    "taboo-vars": [2, ["hoge", "fuga", "duga"]]
   }
 }
