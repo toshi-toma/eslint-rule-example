@@ -1,0 +1,23 @@
+{
+  "name": "eslint-rule-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --rulesdir rules sample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/toshi-toma/eslint-rule-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toshi-toma/eslint-rule-example/issues"
+  },
+  "homepage": "https://github.com/toshi-toma/eslint-rule-example#readme",
+  "dependencies": {
+    "eslint": "^6.5.1"
+  }
+}
