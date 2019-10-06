@@ -19,5 +19,8 @@
   "homepage": "https://github.com/toshi-toma/eslint-rule-example#readme",
   "dependencies": {
     "eslint": "^6.5.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.1"
   }
 }
